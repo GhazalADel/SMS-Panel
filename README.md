@@ -1,6 +1,6 @@
 # SMS Panel Project
 
-The SMS Panel Project is a simple and efficient platform for managing and sending SMS messages, built with Golang using GORM and the Echo web framework. This project allows users to register, log in, manage phone books and phone numbers, and send SMS messages to individuals or groups.
+The SMS Panel Project is a simple and efficient platform for managing and sending SMS messages, built with Golang using GORM and the Echo web framework. This project allows users to register, log in, manage phone books and phone numbers, and send SMS messages to individuals or groups..
 
 ## Features
 
